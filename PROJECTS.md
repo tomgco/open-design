@@ -1,6 +1,10 @@
 # Projects
 
-Open source projects with good design or a design teams
+## Looking for help:
+
+* [LNUG - The London Node Usergroup](http://lnug.org), Checkout [here](https://github.com/lnug/website/issues/11)
+
+## Open source projects with good design or a design teams in open-source
 
 * [Mozilla](http://mozilla.org), [UX blog](https://blog.mozilla.org/ux)
 * [GNOME](http://gnome.org) desktop environment [Design blogs](http://planet.gnome.org/ux/), [Design wiki](https://wiki.gnome.org/Design)

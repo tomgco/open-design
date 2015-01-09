@@ -29,11 +29,6 @@ The most important thing about designing in open source is communication. Design
 * [Google Web Fonts](http://google.com/fonts)
 
 
-## Frameworks
-* [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & Javascript
-* [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (SASS) & Javascript
-* [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
-
 ## Reads
 * [First Rule of Usability? Don’t Listen to Users](http://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/) by Jakob Nielsen (2001)
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
@@ -43,21 +38,6 @@ The most important thing about designing in open source is communication. Design
 * [Open Design Now](http://opendesignnow.org/) book
 * [Meaningful Transitions](http://www.ui-transitions.com/#categories) for better cognitive clues
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
-
-
-## Learn to code
-(Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
-
-* [WebPlatform](http://www.webplatform.org/) web development resources
-* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
-* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins
-* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
-* [Codecademy](http://www.codecademy.com/) with interactive tutorials
-* [Try Git](http://try.github.io/) also with interactive tutorials
-* [code.org](http://code.org/)
-* [Code School](https://www.codeschool.com/) learn even more
-* [Egghead](http://egghead.io/) to learn the AngularJS framework
-
 
 
 ## Other nice stuff

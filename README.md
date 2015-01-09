@@ -1,4 +1,4 @@
-# Resources
+# opensource-design
 
 The most important thing about designing in open source is communication. Designers are not only designers who finish a concept and »hand it off« to developers who implement it – that won’t happen. The key is continuous dialog with the people who could implement it, small steps, incremental improvements and documenting your designs clearly so it’s understandable why the changes you propose are better than the current state.
 
